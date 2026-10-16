@@ -1,0 +1,7 @@
+/* Стиль для активной (выбранной) ссылки в меню */
+.site-navigation .nav-item.active {
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--primary-color);
+  padding-bottom: 4px;
+}
+
